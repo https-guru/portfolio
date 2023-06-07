@@ -443,7 +443,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch";
+    content: "Get In Touch";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
@@ -488,12 +488,12 @@ a.specific-mail-link:visited {
     text-decoration: none;
 }
 a.specific-mail-link:hover {
-    color: #333;
+    color: #000;
     background-color: transparent;
     text-decoration: none;
 }
 a.specific-mail-link:active {
-    color: #333;
+    color: #000;
     background-color: transparent;
     text-decoration: none;
 }
